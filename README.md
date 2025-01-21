@@ -10,7 +10,8 @@ Multiple actuators in each device can selectively vibrate to create a spatial ex
 Multi-device haptics
 Multiple haptic devices able to sync with one another to create a full-body haptic experience.
 
-![image](https://github.com/user-attachments/assets/0ddddc93-fc6b-4e2a-b3b7-5959ea02f270)
+![razor devices](https://github.com/user-attachments/assets/b3985143-2005-444a-8cb9-77412091415d)
+
 
 Linear Interpolation Tool can be found here:
 * https://drive.google.com/file/d/1QZWIYDMRdhvNBmlWiHsg1MFfH4w_kfC3/view?usp=sharing
