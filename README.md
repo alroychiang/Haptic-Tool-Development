@@ -15,6 +15,7 @@ Multiple haptic devices able to sync with one another to create a full-body hapt
 
 Linear Interpolation Tool can be found here:
 * https://drive.google.com/file/d/1QZWIYDMRdhvNBmlWiHsg1MFfH4w_kfC3/view?usp=sharing
+</br>
 ![LinearInterpolationToolScreenShot](https://github.com/user-attachments/assets/c97161ab-aea0-4d50-9b04-e76f5e2eb5a5)
 The Linear Interpolation map purpose’s: is used to allow us to test the quality of the Haptic Interpolation from one body part to the next. We can easily add different kinds of Haptic Effects, Functions, and Body Parts to these Test Maps in the future should the Razor devices upgrade to include a wider array of body targets to vibrate. We can also adjust and experiment the best linear interpolation experience by adding different formulas to achieve the most organic vibration transition for a particular in-game event or scene.
 
@@ -23,6 +24,7 @@ The Linear Interpolation map purpose’s: is used to allow us to test the qualit
 ---
 Spatial Interpolation Tool can be found here:
 * https://drive.google.com/file/d/1QiTj-SuyhFpldiY-Bkzu6rjXV083yTqv/view?usp=sharing
+</br>
 ![SpatialInterpolationToolScreenShot](https://github.com/user-attachments/assets/e46c7eee-ae43-42f4-8bd5-93c03a988ae0)
 The Spatial Interpolation map allows us to experience proximity-based sensations, where the intensity of the vibration changes with distance. Players can “feel” if an enemy explosion is approaching or receding or if a grenade explosion if close to you or further away. This enhances spatial awareness. This is particularly useful in fast-paced games/ E-sports as it helps players react faster to threats and changes in the environment as players are more aware of the direction and position based on the vibrations they feel on their body.
 
